@@ -9,6 +9,7 @@ import Popup from "reactjs-popup";
 import Login from '../body/home_page/Account/Login';
 function Header(props) {
     const [parents, setParent] = useState([]);
+    console.log('sdfd');
     const [childs, setChild] = useState([]);
     const url = 'http://reactjswordpress.com:828/wp-json/wp/v2/primary/menu';
     useEffect(() => {

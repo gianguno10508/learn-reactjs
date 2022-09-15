@@ -1,0 +1,19 @@
+.details-cate h2.title{
+    padding: 135px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #82C341;
+    font-family: "Amatic SC", Sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 64px;
+    background-attachment: fixed;
+}
+.details-cate .container{
+    padding: 65px 0px;
+}
+
+.details-cate .col-md-3{
+    cursor: pointer;
+}

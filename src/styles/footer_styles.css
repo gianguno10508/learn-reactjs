@@ -1,0 +1,42 @@
+.footer{
+    background-color: #2B2B2B;
+    color: #8d8d8d;
+    font-family: Roboto Flex,sans-serif;
+    position: relative;
+}
+.footer .container{
+    padding: 150px 0 50px 0;
+}
+.footer .row{
+    text-align: left;
+}
+.footer .content-above{
+    font-size: 15px;
+    line-height: 28px;
+}
+.footer .content-under {
+    color: #82C341;
+    font-size: 15px;
+    line-height: 28px;
+}
+.footer h2.title{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul.list-menu-footer{
+    padding: 0;
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 28px;
+}
+.coppy-right{
+    background-color: #fff;
+    padding: 15px 0;
+    color: #000000;
+    font-size: 15px;
+}

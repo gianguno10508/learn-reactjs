@@ -1,0 +1,68 @@
+form.woocommerce-EditAccountForm.edit-account input{
+    height: 35px;
+    font-size: 14px;
+}
+form.woocommerce-EditAccountForm.edit-account label{
+    font-size: 14px;
+}
+form.woocommerce-EditAccountForm.edit-account .info{
+    display: flex;
+    margin-bottom: 10px;
+}
+p.woocommerce-form-row.woocommerce-form-row--first.form-row.form-row-first {
+    width: 100%;
+    text-align: left;
+}
+
+input#account_first_name {
+    width: 100%;
+}
+
+p.woocommerce-form-row.woocommerce-form-row--last.form-row.form-row-last {
+    width: 100%;
+    text-align: left;
+}
+
+input#account_last_name {
+    width: 100%;
+}
+
+p.woocommerce-form-row.woocommerce-form-row--wide.form-row.form-row-wide {
+    text-align: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+input#account_display_name {
+    width: 100%;
+}
+input#account_andress {
+    width: 100%;
+}
+input#account_email {
+    width: 100%;
+}
+
+fieldset {
+    padding: 0.35em 0.75em 0.625em;
+    border: 1px solid;
+}
+
+legend {
+    box-sizing: border-box;
+    color: inherit;
+    display: table;
+    text-align: left;
+    padding: 0;
+    white-space: normal;
+    float: unset;
+    width: unset;
+    font-size: 16px;
+}
+
+input#password_current {
+    width: 100%;
+}
+input#password_1 {
+    width: 100%;
+}
